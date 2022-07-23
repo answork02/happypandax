@@ -31,7 +31,7 @@
     "cookie": "^0.4.1",
     "darkreader": "^4.9.32",
     "date-fns": "^2.22.1",
-    "file-type": "^16.5.2",
+    "file-type": "^16.5.4",
     "fomantic-ui-less": "^2.8.7",
     "happypandax-client": "^3.0.0",
     "immutability-helper": "^3.1.1",
